@@ -1,12 +1,5 @@
-# Session 5 Tasks
 
-### Task 1
-
-    find the smallest value of 3 input intgers.
-
-### Task 2
-
-#### what will happen in division by **Zero** and why??
+# what will happen in division by **Zero** and why??
 
 # Answer
 
