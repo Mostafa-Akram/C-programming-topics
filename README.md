@@ -7,5 +7,5 @@ this repo for:
 
 
 ## Divide by zero
-#### trying to divied int, float and double numbers by zero
+#### trying to divide int, float and double numbers by zero
 
